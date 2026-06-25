@@ -1,0 +1,6 @@
+{
+  "name": "Sports Live",
+  "description": "A premium sports live streaming dashboard with a futuristic dark theme, neon accents, and real-time match tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
